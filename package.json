@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeremiahkonkle/devtasks-scaffold/issues"
   },
-  "homepage": "https://github.com/jeremiahkonkle/devtasks-scaffold"
+  "homepage": "https://github.com/jeremiahkonkle/devtasks-scaffold",
+  "devDependencies": {
+    "gulp": "~3.6.0"
+  }
 }
