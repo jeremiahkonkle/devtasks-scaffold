@@ -1,0 +1,19 @@
+{
+  "name": "devtasks-scaffold",
+  "version": "0.0.0",
+  "description": "sandbox for setting up some dev task workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremiahkonkle/devtasks-scaffold.git"
+  },
+  "author": "Jeremiah Konkle",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jeremiahkonkle/devtasks-scaffold/issues"
+  },
+  "homepage": "https://github.com/jeremiahkonkle/devtasks-scaffold"
+}
